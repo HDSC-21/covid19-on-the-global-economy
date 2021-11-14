@@ -1,0 +1,3 @@
+The web based deployment was built with Django(python), html, css .
+
+covidsky.herokuapp.com was used as the website name
