@@ -1,3 +1,11 @@
 The web based deployment was built with Django(python), html, css .
 
+The global page was powered by FBProphet Time Series ( Constructed by Sumit Redekar)
+
+The Specific page was powered by Various Regression Algorithms ( Constructed by Frank Ezenwanne)
+
 covidsky.herokuapp.com was used as the website name
+
+Organizer- Olaniyan Oluwasegun
+
+Scikit-learn group (Hamoye HDSC-2021)
