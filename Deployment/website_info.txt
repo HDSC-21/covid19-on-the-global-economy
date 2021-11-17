@@ -1,3 +1,8 @@
-The web based deployment was built with Django(python), html, css .
+The web based deployment was built with Django(python), html, css ,javascript
 
 covidsky.herokuapp.com was used as the website name
+
+Organizer- Olaniyan Oluwasegun
+
+Scikit-learn group (Hamoye HDSC-2021)
+!!!!
